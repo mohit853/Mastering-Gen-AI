@@ -1,2 +1,2 @@
 # Mastering-Gen-AI
-Hands with Gen AI
+Hands on with Gen AI
